@@ -33,7 +33,7 @@ to the downside. The exit is triggered when RSI crosses back above its MA.
 
 ## Open In Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mnyika-quant/btcusd-elliott-wave-backtest/blob/main/btcusd_elliott_wave_backtest.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mnyika-quant/btc-usd-elliott-wave-backtest/blob/main/btcusd_elliott_wave_backtest.ipynb)
 
 ## Libraries Used
 
